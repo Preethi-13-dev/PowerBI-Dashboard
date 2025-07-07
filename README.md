@@ -6,6 +6,8 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
 
+
+
 Link to the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNTcyOGNjNDAtYjk3ZS00YzEyLTkwMDAtNzZlMGIyZjdiNGY5IiwidCI6ImJhZGE3YWViLWExYmQtNDg0Yi1hMjJiLWM4ZjJlNTFjNDBlMSJ9&pageName=f3c7ec21560b2b8664c4
 
 ![PowerBI_Dashboard](https://github.com/user-attachments/assets/5c4abe2f-affc-44cf-81e4-8b3c0adbbf66)
