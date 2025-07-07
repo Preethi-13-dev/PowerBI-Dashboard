@@ -1,1 +1,4 @@
 # PowerBI-Dashboard
+
+Link to the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNTcyOGNjNDAtYjk3ZS00YzEyLTkwMDAtNzZlMGIyZjdiNGY5IiwidCI6ImJhZGE3YWViLWExYmQtNDg0Yi1hMjJiLWM4ZjJlNTFjNDBlMSJ9&pageName=f3c7ec21560b2b8664c4
+
